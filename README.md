@@ -1,6 +1,6 @@
 # Basecamp Employee Handbook
 
-For over 10 years, we didn’t have a handbook. In those 10 years, when a new person joined the company, they were expected to figure things out for themselves. But when we grew from a company of 10, 20, 30 employees to a company of over
+For over 15 years, we didn’t have a handbook. In those 10 years, when a new person joined the company, they were expected to figure things out for themselves. But when we grew from a company of 10, 20, 30 employees to a company of over
 50, our “introduction by immersion” style stopped working. New hires felt lost and isolated, and
 their first weeks or even months on the job were stressful because of it. It can be unnerving to join any company, but perhaps Basecamp in particular, given how different some of our practices are. There’s as much to unlearn as there is to learn. Prior to this handbook, navigating that path was both somewhat random and almost entirely oral. For a company that prides itself on clarity and writing, that just wasn’t right.
 
